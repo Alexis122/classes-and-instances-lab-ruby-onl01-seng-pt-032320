@@ -4,7 +4,6 @@ class Dog
 end
  
  Snoopy = Dog.new
- end
  
  Lassie = Dog.new
  end
